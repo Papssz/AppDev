@@ -58,7 +58,7 @@ nav a {
     margin: 5px;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-    font-size: 15px;
+    font-size: 20px;
     cursor: pointer;
     font-weight: bold;
 }
@@ -71,7 +71,7 @@ main {
     grid-row: 2 / -2;
     grid-column: 2 / -2;
     padding: 20px;
-    background-image: url('internet.jpg');
+    background-image: url('Images/internet.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 20px;
@@ -96,7 +96,12 @@ h1.container1 {
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-h1, h2, p {
+h1, p {
     margin-bottom: 15px;
     line-height: 1.5;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 30px;
 }
