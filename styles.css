@@ -95,6 +95,7 @@ main {
     color: white;
     display: flex; 
     flex-direction: column;     
+}
 
 /* Container styles */
 .container {
